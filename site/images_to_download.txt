@@ -1,0 +1,243 @@
+Please download an image for each of the following products.
+Save them in the 'site/assets/images/products/' folder with the exact filename provided.
+
+Product: Redmi Note 13 Pro 5G (Midnight Black, 128 GB)
+Filename: p1.jpg
+--------------------------------------------------
+Product: Samsung Galaxy S23 Ultra 5G (Green, 256 GB)
+Filename: p2.jpg
+--------------------------------------------------
+Product: Apple iPhone 15 (Blue, 128 GB)
+Filename: p3.jpg
+--------------------------------------------------
+Product: OnePlus Nord CE 4 (Celadon Marble, 128 GB)
+Filename: p4.jpg
+--------------------------------------------------
+Product: realme 12 Pro+ 5G (Submarine Blue, 256 GB)
+Filename: p5.jpg
+--------------------------------------------------
+Product: vivo T3x 5G (Crystal Flake, 128 GB)
+Filename: p6.jpg
+--------------------------------------------------
+Product: Men Slim Fit Checkered Cotton Casual Shirt
+Filename: p7.jpg
+--------------------------------------------------
+Product: Women Floral Printed A-Line Midi Dress
+Filename: p8.jpg
+--------------------------------------------------
+Product: Unisex Running Shoes - Lightweight Mesh
+Filename: p9.jpg
+--------------------------------------------------
+Product: Men Leather Analog Wrist Watch
+Filename: p10.jpg
+--------------------------------------------------
+Product: Women Quilted Sling Handbag
+Filename: p11.jpg
+--------------------------------------------------
+Product: Kids Cotton Printed T-Shirt (Pack of 3)
+Filename: p12.jpg
+--------------------------------------------------
+Product: boAt Rockerz 450 Bluetooth Headphone
+Filename: p13.jpg
+--------------------------------------------------
+Product: Dell 24 inch Full HD IPS Monitor
+Filename: p14.jpg
+--------------------------------------------------
+Product: HP Pavilion 15 Laptop (Ryzen 5, 16GB, 512GB SSD)
+Filename: p15.jpg
+--------------------------------------------------
+Product: Canon EOS 1500D DSLR Camera with 18-55mm Lens
+Filename: p16.jpg
+--------------------------------------------------
+Product: JBL Flip 6 Portable Bluetooth Speaker
+Filename: p17.jpg
+--------------------------------------------------
+Product: Mi Smart Band 8 Fitness Tracker
+Filename: p18.jpg
+--------------------------------------------------
+Product: Cotton King Size Bedsheet with 2 Pillow Covers
+Filename: p19.jpg
+--------------------------------------------------
+Product: Non-Stick Cookware Set (5 Pieces)
+Filename: p20.jpg
+--------------------------------------------------
+Product: LED Table Lamp with Wooden Base
+Filename: p21.jpg
+--------------------------------------------------
+Product: Memory Foam Bathroom Mat (Set of 2)
+Filename: p22.jpg
+--------------------------------------------------
+Product: Wall Mounted Wooden Shelf (Set of 3)
+Filename: p23.jpg
+--------------------------------------------------
+Product: Scented Soy Candle Gift Set (Pack of 4)
+Filename: p24.jpg
+--------------------------------------------------
+Product: 8 Wheeler Hard Sided Cabin Luggage (22 inch)
+Filename: p25.jpg
+--------------------------------------------------
+Product: Anti-Theft Travel Backpack with USB Port
+Filename: p26.jpg
+--------------------------------------------------
+Product: Inflatable Neck Pillow with Travel Pouch
+Filename: p27.jpg
+--------------------------------------------------
+Product: Waterproof Duffel Bag (50L)
+Filename: p28.jpg
+--------------------------------------------------
+Product: Travel Toiletry Kit Organizer Pouch
+Filename: p29.jpg
+--------------------------------------------------
+Product: Universal Travel Adapter with 4 USB Ports
+Filename: p30.jpg
+--------------------------------------------------
+Product: 5 Star Inverter Split AC (1.5 Ton)
+Filename: p31.jpg
+--------------------------------------------------
+Product: 8 kg Fully Automatic Front Load Washing Machine
+Filename: p32.jpg
+--------------------------------------------------
+Product: 253 L 3 Star Double Door Refrigerator
+Filename: p33.jpg
+--------------------------------------------------
+Product: Microwave Oven Convection 28L
+Filename: p34.jpg
+--------------------------------------------------
+Product: 1200W Mixer Grinder (3 Jars)
+Filename: p35.jpg
+--------------------------------------------------
+Product: 7 kg Top Load Washing Machine
+Filename: p36.jpg
+--------------------------------------------------
+Product: 3 Seater Fabric Sofa
+Filename: p37.jpg
+--------------------------------------------------
+Product: Engineered Wood Study Table
+Filename: p38.jpg
+--------------------------------------------------
+Product: Queen Size Bed with Hydraulic Storage
+Filename: p39.jpg
+--------------------------------------------------
+Product: Ergonomic Mesh Office Chair
+Filename: p40.jpg
+--------------------------------------------------
+Product: 2 Door Wardrobe with Mirror
+Filename: p41.jpg
+--------------------------------------------------
+Product: Bookshelf Cum Display Unit (5 Tier)
+Filename: p42.jpg
+--------------------------------------------------
+Product: Vitamin C Brightening Face Serum (30ml)
+Filename: p43.jpg
+--------------------------------------------------
+Product: Matte Liquid Lipstick Combo (Set of 3)
+Filename: p44.jpg
+--------------------------------------------------
+Product: Building Blocks Construction Set (250 Pieces)
+Filename: p45.jpg
+--------------------------------------------------
+Product: Remote Control Racing Car
+Filename: p46.jpg
+--------------------------------------------------
+Product: Herbal Hair Growth Oil (200ml)
+Filename: p47.jpg
+--------------------------------------------------
+Product: Educational Learning Tablet for Kids
+Filename: p48.jpg
+--------------------------------------------------
+Product: Premium Basmati Rice (5 kg)
+Filename: p49.jpg
+--------------------------------------------------
+Product: Cold Pressed Groundnut Oil (1L)
+Filename: p50.jpg
+--------------------------------------------------
+Product: Mixed Dry Fruits Gift Pack (1 kg)
+Filename: p51.jpg
+--------------------------------------------------
+Product: Organic Honey (500g)
+Filename: p52.jpg
+--------------------------------------------------
+Product: Whole Wheat Atta (10 kg)
+Filename: p53.jpg
+--------------------------------------------------
+Product: Poco X6 Pro 5G (Racing Yellow, 256 GB)
+Filename: p55.jpg
+--------------------------------------------------
+Product: Nothing Phone (2a) (White, 128 GB)
+Filename: p56.jpg
+--------------------------------------------------
+Product: Motorola Edge 50 Pro 5G (Luxe Lavender, 256 GB)
+Filename: p57.jpg
+--------------------------------------------------
+Product: Levi's Men 511 Slim Fit Jeans
+Filename: p58.jpg
+--------------------------------------------------
+Product: Biba Women Printed Kurta Set
+Filename: p59.jpg
+--------------------------------------------------
+Product: Nike Air Max 90 Sneakers
+Filename: p60.jpg
+--------------------------------------------------
+Product: Sony WH-1000XM5 Noise Cancelling Headphones
+Filename: p61.jpg
+--------------------------------------------------
+Product: Apple iPad Air (5th Gen, 64GB, Wi-Fi)
+Filename: p62.jpg
+--------------------------------------------------
+Product: Samsung 43 inch Crystal 4K UHD Smart TV
+Filename: p63.jpg
+--------------------------------------------------
+Product: Wakefit Orthopedic Memory Foam Mattress
+Filename: p64.jpg
+--------------------------------------------------
+Product: Godrej Interio 3 Door Steel Wardrobe
+Filename: p65.jpg
+--------------------------------------------------
+Product: Bombay Dyeing Premium Cotton Bath Towel
+Filename: p66.jpg
+--------------------------------------------------
+Product: Safari Ray Polycarbonate 65 cm Luggage
+Filename: p67.jpg
+--------------------------------------------------
+Product: Victorinox Swiss Army Knife (Huntsman)
+Filename: p68.jpg
+--------------------------------------------------
+Product: Tommy Hilfiger 15.6 inch Laptop Backpack
+Filename: p69.jpg
+--------------------------------------------------
+Product: Dyson V12 Detect Slim Vacuum Cleaner
+Filename: p70.jpg
+--------------------------------------------------
+Product: Eureka Forbes Aquaguard Aura Water Purifier
+Filename: p71.jpg
+--------------------------------------------------
+Product: Morphy Richards 2 Slice Pop Up Toaster
+Filename: p72.jpg
+--------------------------------------------------
+Product: IKEA Billy Bookcase (White)
+Filename: p73.jpg
+--------------------------------------------------
+Product: Pepperfry Solid Wood Dining Set (4 Seater)
+Filename: p74.jpg
+--------------------------------------------------
+Product: Sleepyhead Recliner Sofa (Single Seater)
+Filename: p75.jpg
+--------------------------------------------------
+Product: L'Oreal Paris Revitalift Hyaluronic Acid Serum
+Filename: p76.jpg
+--------------------------------------------------
+Product: LEGO City Police Station Building Set
+Filename: p77.jpg
+--------------------------------------------------
+Product: Philips Norelco Multigroom Trimmer Series 5000
+Filename: p78.jpg
+--------------------------------------------------
+Product: Tata Salt, Iodized (1 kg)
+Filename: p79.jpg
+--------------------------------------------------
+Product: Maggi 2-Minute Noodles (Pack of 12)
+Filename: p80.jpg
+--------------------------------------------------
+Product: Amul Pure Ghee (1 L Pouch)
+Filename: p81.jpg
+--------------------------------------------------

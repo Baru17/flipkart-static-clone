@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Admin Console · Flipkart Clone</title>
+  <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+  <div class="admin-shell" data-theme="light">
+    <aside class="sidebar" data-sidebar>
+      <a class="admin-brand" href="admin.html"><span>F</span><b>flipkart</b><small>ADMIN</small></a>
+      <nav class="side-nav" aria-label="Administration">
+        <p>WORKSPACE</p>
+        <button class="nav-link active" data-view="dashboard">⌂ <span>Dashboard</span></button>
+        <button class="nav-link" data-view="products">▦ <span>Catalog</span><i>›</i></button>
+        <button class="nav-link" data-view="orders">▤ <span>Orders</span><em>8</em></button>
+        <button class="nav-link" data-view="customers">♙ <span>Customers</span></button>
+        <button class="nav-link" data-view="inventory">▣ <span>Inventory</span><em class="danger">5</em></button>
+        <button class="nav-link" data-view="payments">₹ <span>Payments</span></button>
+        <button class="nav-link" data-view="returns">↩ <span>Returns & Refunds</span></button>
+        <button class="nav-link" data-view="coupons">◇ <span>Discounts</span></button>
+        <button class="nav-link" data-view="reports">▥ <span>Reports</span></button>
+        <p>SYSTEM</p>
+        <button class="nav-link" data-view="content">▧ <span>Content</span></button>
+        <button class="nav-link" data-view="admins">♧ <span>Admin Management</span></button>
+        <button class="nav-link" data-view="audit">◷ <span>Audit Logs</span></button>
+        <button class="nav-link" data-view="settings">⚙ <span>Settings</span></button>
+      </nav>
+      <div class="sidebar-user"><span class="avatar">AK</span><div><b>Alex Kumar</b><small>Super Admin</small></div><button data-action="profile" title="Profile">⋮</button></div>
+    </aside>
+    <main class="admin-main">
+      <header class="topbar">
+        <button class="icon-btn menu-toggle" data-action="menu" aria-label="Toggle navigation">☰</button>
+        <label class="global-search"><span>⌕</span><input data-global-search placeholder="Search orders, products, customers…"><kbd>⌘ K</kbd></label>
+        <div class="top-actions"><button class="icon-btn theme-toggle" data-action="theme" title="Toggle theme">◐</button><button class="icon-btn notification" data-action="notifications" title="Notifications">♢<i></i></button><button class="profile-button" data-action="profile"><span class="avatar">AK</span><span>Alex Kumar</span><b>⌄</b></button></div>
+      </header>
+      <section class="workspace">
+        <div class="breadcrumb"><span>Admin</span><b>/</b><span data-breadcrumb>Dashboard</span></div>
+        <div id="admin-app" aria-live="polite"></div>
+      </section>
+    </main>
+  </div>
+  <div class="modal-root" data-modal-root></div>
+  <div class="toast-root" data-toast-root></div>
+  <script src="js/data.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>
